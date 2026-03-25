@@ -1,0 +1,5 @@
+# Task 5: Reflection on Cybercrime Awareness
+
+Researching UPI fraud for this case study was an eye-opening experience. What surprised me most was the sophistication of "social engineering"—the way attackers don't just hack code, but hack human emotions like greed or fear to bypass security. I was startled to learn how many students lose significant amounts of money simply because they were rushed into entering a PIN during a "collect request."
+
+As a result of this task, the one habit I will personally change is my approach to account security. I have now enabled 2FA on all my academic and financial accounts. Furthermore, I have made it a rule to never perform financial transactions while distracted or in a hurry, ensuring I always verify the recipient's identity twice before authorizing any debit.
