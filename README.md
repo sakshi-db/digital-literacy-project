@@ -26,7 +26,7 @@ This project is organized into five modules as per the course requirements:
   * *Quiz Link:* [Access My Digital Literacy Quiz](https://forms.gle/G2kmwM9a1MVcw15s8)
 * **[Task 4: Email Etiquette](./task-4-email-etiquette/)** - Professional communication drafts and a social media safety checklist.
 * **[Task 5: Cybercrime](./task-5-cybercrime/)** - A case study on UPI fraud and an 8-tip prevention guide.
-* **[Final Report](./report/)** - The comprehensive project report covering all reflections.
+* **[Final Report](./project-report.pdf/)** - The comprehensive project report covering all reflections.
 
 ---
 
